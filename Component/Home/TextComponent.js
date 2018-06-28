@@ -5,11 +5,11 @@ import {
     StyleSheet
 } from 'react-native';
 
-export default class MineComponent extends Component{
+export default class TextComponent extends Component{
     render(){
         return(
             <View style={styles.container}>
-                <Text>我是个人中心</Text>
+                <Text>跳转测试</Text>
             </View>
         );
     }

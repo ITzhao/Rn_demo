@@ -16,6 +16,7 @@ export default class ShopComponent extends Component{
 }
 const styles = StyleSheet.create({
     container:{
+        flex:1,
         backgroundColor:'pink',
         justifyContent:'center',
         alignItems:'center'
